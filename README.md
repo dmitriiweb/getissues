@@ -1,4 +1,4 @@
-# Get Issues from GitHub account
+# Get issues from GitHub account
 
 ![](gif.gif)
 
